@@ -1,0 +1,19 @@
+# stringvalue="@#%^&*()_+!~`-=[]{};':,./<>?|12314357340987ashfgkjdahggkdlhKJFGKSJGF"
+# numericwalaliteral=201
+# print("stringvalue=",type(stringvalue),stringvalue)
+# print("intvalue=",type(intvalue),intvalue)
+#literal collection examples
+# x=-10
+# print(x);print(x+11);
+# """
+# madhulikaa 
+# is tall 
+# girl"""
+# madhulika,harshit=[1,2,3],4
+
+#or ka matlab hai ki dono me se ek ne bhi true de diya toh print ho jaega 
+marks=30
+if marks>10 and marks<=30:
+    print("mai hi output dega ab toh ")
+else:
+   print("kuch toh output dega mai")
